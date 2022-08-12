@@ -1,0 +1,2 @@
+https://dev.to/roycechua/setup-a-node-express-api-with-typescript-2021-11o1
+https://github.com/typestack/routing-controllers
